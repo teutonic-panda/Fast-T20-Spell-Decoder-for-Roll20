@@ -1,0 +1,118 @@
+AbençoarAlimentos
+Divina 1 (Transmutação)
+Execução: padrão; Alcance: curto;
+Alvo: alimento para 1 criatura; Duração: cena.
+Você purifica e abençoa uma porção de
+comida ou dose de bebida. Isso torna
+um alimento sujo, estragado ou envenenado próprio para consumo. Além
+disso, se for consumido até o final da
+duração, o alimento oferece 5 PV temporários ou 1 PM temporário (além de
+quaisquer bônus que já oferecesse).
+Bônus de alimentação duram um dia e
+cada personagem só pode receber um
+bônus de alimentação por dia.
+Truque: o alimento é purificado (não
+causa nenhum efeito nocivo se estava
+estragado ou envenenado), mas não
+fornece bônus ao ser consumido.
++1 PM: aumenta o número de alvos
+em +1.
++1 PM: muda a duração para permanente, o alvo para 1 frasco com água e
+adiciona componente material (pó de
+prata no valor de T$ 5). Em vez do normal, cria um frasco de água benta.
+
+Acalmar Animal
+Divina 1 (Encantamento)
+Execução: padrão; Alcance: curto;
+Alvo: 1 animal; Duração: cena; Resistência: Vontade anula.
+O animal fica prestativo em relação a
+você. Ele não fica sob seu controle, mas
+percebe suas palavras e ações da maneira mais favorável possível. Você recebe
++10 nos testes de Adestramento e Diplomacia que fizer contra o animal.
+Um alvo hostil ou que esteja envolvido
+em um combate recebe +5 em seu teste
+de resistência. Se você ou seus aliados
+tomarem qualquer ação hostil contra o
+alvo, a magia é dissipada e ele retorna à
+atitude que tinha antes (ou piorada, de
+acordo com o mestre). Se tratar bem o
+alvo, a atitude pode permanecer mesmo
+após o término da magia.
++1 PM: muda o alcance para médio.
++1 PM: muda o alvo para 1 monstro ou
+espírito com Inteligência 1 ou 2.
++2 PM: aumenta o número de alvos
+em +1.
++5 PM: muda o alvo para 1 monstro
+ou espírito. Requer 3º círculo.
+
+Adaga Mental
+Arcana 1 (Encantamento)
+Execução: padrão; Alcance: curto;
+Alvo: 1 criatura; Duração: instantânea; Resistência: Vontade parcial.
+Você manifesta e dispara uma adaga
+imaterial contra a mente do alvo, que
+sofre 2d6 pontos de dano psíquico e
+fica atordoado por uma rodada. Se passar no teste de resistência, sofre apenas metade do dano e evita a condição.
+Uma criatura só pode ficar atordoada
+por esta magia uma vez por cena.
++1 PM: você lança a magia sem gesticular ou pronunciar palavras (o que permite lançar esta magia de armadura) e
+a adaga se torna invisível. Se o alvo falhar no teste de resistência, não percebe
+que você lançou uma magia contra ele.
++2 PM: muda a duração para um dia.
+Além do normal, você “finca” a adaga
+na mente do alvo. Enquanto a magia
+durar, você sabe a direção e localização
+do alvo, desde que ele esteja no mesmo mundo.
++2 PM: aumenta o dano em +1d6.
+
+Alarme
+Arcana 1 (Abjuração)
+Execução: padrão; Alcance: curto;
+Área: esfera com 9m de raio; Duração: 1 dia.
+Você cria uma barreira protetora invisível que detecta qualquer criatura
+que tocar ou entrar na área protegida.
+Ao lançar a magia, você pode escolher
+quais criaturas podem entrar na área
+sem ativar seus efeitos. Alarme pode
+emitir um aviso telepático ou sonoro, decidido quando a magia é lançada. Um aviso telepático alerta apenas
+você, inclusive acordando-o se estiver
+dormindo, mas apenas se estiver a até
+1km da área protegida. Um aviso sonoro alerta todas as criaturas em alcance longo.
++2 PM: muda o alcance para pessoal.
+A área é emanada a partir de você. 
++5 PM: além do normal, você também
+percebe qualquer efeito de adivinhação
+que seja usado dentro da área ou atravesse a área. Você pode fazer um teste oposto de Misticismo contra quem
+usou o efeito; se passar, tem um vislumbre de seu rosto e uma ideia aproximada de sua localização (“três dias
+de viagem ao norte”, por exemplo).
++9 PM: muda a duração para um dia
+ou até ser descarregada e a resistência
+para Vontade anula. Quando um intruso entra na área, você pode descarregar
+a magia. Se o intruso falhar na resistência, ficará paralisado por 1d4 rodadas. Além disso, pelas próximas 24
+horas você e as criaturas escolhidas ganham +10 em testes de Sobrevivência
+para rastrear o intruso.
+
+Aliado Animal
+Divina 2 (Encantamento)
+Execução: padrão; Alcance: curto;
+Alvo: 1 animal prestativo; Duração:1 dia.
+Você cria um vínculo mental com um
+animal prestativo em relação a você.
+O Aliado Animal obedece a você no
+melhor de suas capacidades, mesmo
+que isso arrisque a vida dele. Ele funciona como um parceiro veterano, de
+um tipo a sua escolha entre ajudante,
+combatente, fortão, guardião, montaria ou perseguidor.
++1 PM: muda o alvo para 1 animal Minúsculo e a duração para 1 semana. Em
+vez do normal, o animal se desloca no
+melhor de suas capacidades até um local designado por você — em geral, para
+levar um item, carta ou similar. Quando
+o animal chega ao destino, fica esperando até o fim da magia, permitindo apenas que uma ou mais criaturas escolhidas por você se aproximem e peguem o
+que ele estiver carregando.
++7 PM: muda o parceiro para mestre.
+Requer 3º círculo.
++12 PM: muda o alvo para 2 animais
+prestativos. Cada animal funciona
+como um parceiro de um tipo diferente, e você pode receber a ajuda de ambos (mas ainda precisa seguir o limite
+de parceiros de acordo com o seu nível de personagem). Requer 4º círculo.
